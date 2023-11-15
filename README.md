@@ -1,6 +1,12 @@
 
 # ContentAI
 
+Generated with a custom GPT using GPT4, Web Browsing, DALLE-3 and Code Interpreter 
+
+TODO: Self improving code using agents
+
+Link to conversation below
+
 ContentAI is a Python-based tool that leverages the power of OpenAI's GPT-4 for automated content generation. It's designed to create engaging articles, tweets, and infographics based on trending topics, making it an ideal solution for content creators, marketers, and social media enthusiasts.
 
 ## Features
