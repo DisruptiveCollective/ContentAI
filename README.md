@@ -1,5 +1,5 @@
 
-# Python Project
+# Content Farm
 
 This Python project includes a tool for generating content based on trending topics, with features like API key management, content generation using OpenAI's GPT-4, and more.
 
