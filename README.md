@@ -1,4 +1,4 @@
-Certainly! Let's delve into how this Python-based tool functions and the type of content it outputs.
+
 
 ### How the Tool Works
 
