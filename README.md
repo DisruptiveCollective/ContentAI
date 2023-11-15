@@ -1,6 +1,3 @@
-Here is the content of the README file for your project "ContentAI":
-
----
 
 # ContentAI
 
