@@ -3,7 +3,7 @@
 
 Generated with a custom GPT using GPT4, Web Browsing, DALLE-3 and Code Interpreter 
 
-TODO: Self improving code using agents
+TODO: Clean Code, Web Interface, Video Generation, Use Local LLMs instead of OpenAI 
 
 Link to conversation below
 
